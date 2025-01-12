@@ -7,4 +7,4 @@ Repozytorium zawierające zadania z kursu [Podstaw Sztucznej Inteligencji](https
 3. [Sieci neuronowe](lab3)
 4. [Detekcja obiektów](lab4)
 5. [Przetwarzanie języka naturalnego](lab5)
-6. [Algorytmy rekomendacyjne](lab6)
+6. [Podejmowanie decyzji](lab6)
